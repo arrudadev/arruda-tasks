@@ -1,0 +1,3 @@
+[submodule "backends/arruda-tasks-rails"]
+	path = backends/arruda-tasks-rails
+	url = https://github.com/arrudadev/arruda-tasks-rails
